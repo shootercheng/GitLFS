@@ -18,6 +18,7 @@ $  git lfs track "*.zip"
 ```
 $  git add .gitattributes
 ```
+###### Copy-Paste a .zip folder (DataSets.zip) into Repository Folder: </br>
 ```
 $ git add -f DataSets.zip
 ```
