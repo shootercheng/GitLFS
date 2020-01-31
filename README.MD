@@ -1,7 +1,7 @@
 ### Git LFS
-###### Way to upload heavy files (upto 2GB on GitHub)
+###### The below guide aims to list of Steps used to upload heavy files (upto 2GB) on GitHub, using GitLFS.
 
-#### STEP#1: [Download](https://git-lfs.github.com/) and Install GitLFS.
+#### STEP#1: [Download](https://git-lfs.github.com/) and install GitLFS.
 #### STEP#2: Follow the below Steps: </br>
 ```
 $  git clone https://github.com/rahulvaish/LFS/
@@ -18,7 +18,7 @@ $  git lfs track "*.zip"
 ```
 $  git add .gitattributes
 ```
-###### Copy-Paste a .zip folder (DataSets.zip) into Repository Folder: </br>
+###### Copy-Paste any .zip folder (DataSets.zip) into the current Repository Folder: </br>
 ```
 $ git add -f DataSets.zip
 ```
