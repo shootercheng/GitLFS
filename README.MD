@@ -30,3 +30,14 @@ $ git push
 ```
 
 ![image](https://user-images.githubusercontent.com/689226/73557905-1c502480-4478-11ea-8ded-b51b559ad64c.png)
+
+How to clone Git lfs
+
+```bash
+$ git lfs install
+```
+
+```bash
+$ git lfs clone git@github.com:shootercheng/GitLFS.git
+```
+
